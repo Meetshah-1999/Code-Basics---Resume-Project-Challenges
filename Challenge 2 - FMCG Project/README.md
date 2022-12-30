@@ -21,3 +21,14 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 1. Create the metrics according to the metrics list.
 2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 3. Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+## Tools used
+
+Data Cleaning : MS Excel
+
+Data Visualization: Tableau
+
+## Key Insights
+
+1. All the Key Metrics (OT%, IF%, OTIF%) are well behind the targets.
+2. Acclaimed Stores, Cool Blue and Lotus Mart are the customers where company have delayed the most to deliver the products on time despite of having the most number of orders from them.
