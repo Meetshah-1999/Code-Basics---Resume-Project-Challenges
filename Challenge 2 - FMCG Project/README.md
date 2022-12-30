@@ -2,7 +2,7 @@
 
 As a part of the October month Codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Tableau.
 
-Challenge [Link]("https://codebasics.io/event/codebasics-resume-project-challenge")
+Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 Dashboard [Link]('https://public.tableau.com/app/profile/meet.tushar.shah/viz/SupplyChainChallengebyCodebasics/Dashboard1')
 
