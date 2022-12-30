@@ -4,7 +4,7 @@ As a part of the October month Codebaiscs resume challenge, I have performed dat
 
 Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Dashboard [Link]('https://public.tableau.com/app/profile/meet.tushar.shah/viz/SupplyChainChallengebyCodebasics/Dashboard1')
+Dashboard [Link](https://public.tableau.com/app/profile/meet.tushar.shah/viz/SupplyChainChallengebyCodebasics/Dashboard1)
 
 ## Problem Statement
 
