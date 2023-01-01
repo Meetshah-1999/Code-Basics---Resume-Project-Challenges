@@ -32,3 +32,4 @@ Data Visualization: Tableau
 
 1. All the Key Metrics (OT%, IF%, OTIF%) are well behind the targets.
 2. Acclaimed Stores, Cool Blue and Lotus Mart are the customers where company have delayed the most to deliver the products on time despite of having the most number of orders from them.
+3. Daily trends of OT%, IF% and OTIF% chart shows that not a single day they are able to touch the Target lines for respective matrices. Especially OTIF% performance is quite disappointing.
